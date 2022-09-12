@@ -1,6 +1,5 @@
 # Andreas's First CS193 Homework
 
-```markdown
 - The class is easy
 - It's not a morning class
 - It's useful
